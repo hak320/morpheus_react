@@ -17,3 +17,5 @@ class MagicTable extends React.Component {
       </table>);
     }
   }
+
+  export default MagicTable
